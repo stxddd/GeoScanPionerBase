@@ -8,4 +8,5 @@
 
 - [0_Initial — первая прошивка БПЛА](./0_Initial/README.md)
 - [1_line_detect — детекция  линии, LED индикация](./1_line_detect/README.md)
-- [2_sqare_detect — полёт по квадрату, повороты на углах, LED индикация](./2_sqare_detect/README.md)
+- [2_sqare_detect — детекция квадрата и передача углов коррекции на полетный контроллер](./2_sqare_detect/README.md)
+- [3_first_flight — первый полет, два способа](./3_first_flight/README.md)
